@@ -1,1 +1,8 @@
+@charset "UTF-8";
 *{font-family: 'Hachi Maru Pop', cursive;}
+body{
+    height: 100vh;
+    margin: 0;
+    background: url(portfolio/img/haha.gif) #9fd9f6
+    left top repeat;
+}
