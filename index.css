@@ -3,6 +3,16 @@
 body{
     height: 100vh;
     margin: 0;
-    background: url(portfolio/img/haha.gif) #9fd9f6
+    background:#f37208 
     left top repeat;
+}
+.Logo{
+    text-align: center;
+    max-width: 40%;
+}
+.shortcuticon{
+    height: auto;
+    width: auto
+    ;
+
 }
