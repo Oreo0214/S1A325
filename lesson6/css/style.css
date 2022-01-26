@@ -25,15 +25,15 @@ body {
 
 /* ヘッダー */
 .header {
-   /* 横幅の指定 */
-   /* 左右中央揃え */
-   /* 上下・左右の内余白 */
+    width: 1000px;
+    margin: 0 auto;
+    padding:  20px 0;
 }
 
 /* ロゴ */
 .logo {
-   /* 上下左右の外余白 */
-   /* テキスト中央揃え */
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 /* メイン */
